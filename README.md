@@ -1,2 +1,38 @@
 # DGMD-E-28-Assignment-1
 DGMD E-28 Developing Single Page Web Applications Assignment 1: Deploy a web page on GitHub
+
+
+<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Alison Rose</h1>
+<p>Ashland, MA <br><br>
+Digital Media Design</p>
+
+<p>I took Fundementals of Website Development and Into to Web Programming Using Javascript last semester. I've
+    also used Wix and Wordpress to create websites.
+</p>
+
+<a href="https://www.alisongrose.com/">www.alisongrose.com</a>
+
+<br>
+
+<a href="https://www.wacatv.com/">www.wacatv.com</a>
+
+<p>I don't have much experience with software development. </p>
+
+<p>I'm taking this course because it looks interesting.</p>
+
+<img src="images/untitled-design---2023-07-17t121745012.jpg" alt="Sugarloaf Ski Resort" width="500" height="500">
+
+<br>
+<br>
+
+<a href="https://shipyardbrewhaussugarloaf.com/" target="_blank">One of my favorite restaurants</a>
+
+</body>
+</html>
